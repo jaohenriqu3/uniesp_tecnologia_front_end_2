@@ -1,1 +1,1 @@
-# uniesp_tecnologia_front_end_2
+Projetos e exercicios de estudo da disciplina "tecnologia para front-end 2", disciplina sendo cursada atualmente no segundo periodo da graduação de Sistemas Para Internet na instituição UNIESP - Centro Universitário
