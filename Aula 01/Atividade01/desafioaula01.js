@@ -31,4 +31,4 @@ const mediaalturaHomens = somaalturaHomens / 15;
 console.log ("A maior altura do grupo é", maiorAltura) 
 console.log ("A menor altura do grupo é", menorAltura) 
 console.log ("A media de altura dos homens é, " ) 
-console.log ("A quantidade de mulheres pesquisadas foi de" , quantidamulheres)
+console.log ("A quantidade de mulheres pesquisadas foi de" , quantidademulheres)
