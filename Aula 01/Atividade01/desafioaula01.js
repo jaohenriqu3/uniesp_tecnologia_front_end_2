@@ -18,20 +18,20 @@ if (altura > maioraltura) {
 if (altura < menoraltura) {
     menoraltura = altura; }
 
-// Obter quantidade de homens e somar  
-if (sexo === 'M') {
+// Obter quantidade de homens e somar a quantidade 
+if (sexo == 'M') {
     somaalturahomens += altura;} 
     
 // Obter quantidade de mulheres    
-else if (sexo === 'F') {
+else if (sexo == 'F') {
     quantidademulheres++; }
 }  
 
 // Calcular media de homens 
-const mediaalturaHomens = somaalturahomens / 15;
+const mediaalturahomens = somaalturahomens / 15;
 
 // Imprimir resultados 
-console.log ("A maior altura do grupo é", maioraltura) 
-console.log ("A menor altura do grupo é", menoraltura) 
-console.log ("A media de altura dos homens é, " ) 
+console.log ("A maior altura é", maioraltura) 
+console.log ("A menor altura é", menoraltura) 
+console.log ("A media de altura dos homens é ", mediaalturahomens ) 
 console.log ("A quantidade de mulheres pesquisadas foi de" , quantidademulheres)  
